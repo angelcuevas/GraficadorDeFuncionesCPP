@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1572183173 source:f:\documents\codeblock\graficadordefunciones\main.cpp
+	<conio.h>
+	<stdio.h>
+	<dos.h>
+	<iostream>
+	<string.h>
+	<winbgim.h>
+	<iostream>
+	<math.h>
+
